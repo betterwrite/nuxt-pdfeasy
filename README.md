@@ -1,6 +1,8 @@
 # Nuxt3 PDFEasy Module
 
-A PDF document generator to your Nuxt application.
+A new way to generate pdf's in your Nuxt application.
+
+- **For PDFEasy docs, [click here](https://github.com/betterwrite/pdfeasy)**
 
 ## Setup
 
@@ -67,5 +69,3 @@ $pdf.run().then(blob => {
 })
 </script>
 ```
-
-> For pdfeasy docs, [click here](https://github.com/betterwrite/pdfeasy)
